@@ -1,0 +1,300 @@
+{
+  "hosting_products": [
+    {
+      "gid": 1,
+      "category": "cPanel Hosting, Linux hosting, web hosting",
+      "plans": [
+        {
+          "Name": "Starter",
+          "product_description": "Single website, 15GB NVMe storage, unlimited bandwidth, perfect for beginners",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 2.99,
+            "quarterly": 8.97,
+            "semi_annually": 17.94,
+            "annually": 35.88,
+            "biennially": 71.76,
+            "triennially": 107.64
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz"]
+          },
+          "direct_shopping_link": "https://setrahost.com/cpanel-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "Evolve",
+          "product_description": "10 websites, 30GB NVMe storage, unlimited bandwidth, enhanced performance",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 3.99,
+            "quarterly": 11.97,
+            "semi_annually": 23.94,
+            "annually": 47.88,
+            "biennially": 95.76,
+            "triennially": 143.64
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz"]
+          },
+          "direct_shopping_link": "https://setrahost.com/cpanel-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "Business",
+          "product_description": "Unlimited websites, 60GB NVMe storage, unlimited bandwidth, maximum resources",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 7.99,
+            "quarterly": 23.97,
+            "semi_annually": 47.94,
+            "annually": 95.88,
+            "biennially": 191.76,
+            "triennially": 287.64
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz"]
+          },
+          "direct_shopping_link": "https://setrahost.com/cpanel-hosting",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "gid": 25,
+      "category": "Business Hosting",
+      "plans": [
+        {
+          "Name": "Business Starter",
+          "product_description": "Professional business hosting with enhanced security and performance",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 4.98,
+            "quarterly": 14.94,
+            "semi_annually": 29.88,
+            "annually": 59.76,
+            "biennially": 119.52,
+            "triennially": 179.28
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".biz", ".info"]
+          },
+          "direct_shopping_link": "https://example.com/business-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "Business Premium",
+          "product_description": "Advanced business hosting with priority support and enhanced resources",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 9.95,
+            "quarterly": 29.85,
+            "semi_annually": 59.70,
+            "annually": 119.40,
+            "biennially": 238.80,
+            "triennially": 358.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".biz", ".info", ".co.uk"]
+          },
+          "direct_shopping_link": "https://example.com/business-hosting",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "gid": 28,
+      "category": "Windows Hosting, ASP Hosting, .NET hosting, MSSQL hosting",
+      "plans": [
+        {
+          "Name": "ASP.NET Basic",
+          "product_description": "Host 1 website, unlimited space/transfer, SQL Server 2022, .NET 9 hosting",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 2.95,
+            "quarterly": 8.85,
+            "semi_annually": 17.70,
+            "annually": 35.40,
+            "biennially": 70.80,
+            "triennially": 106.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org"]
+          },
+          "direct_shopping_link": "https://smarterasp.net",
+          "currency": "USD"
+        },
+        {
+          "Name": "ASP.NET Advance",
+          "product_description": "Host 6 websites, unlimited space/transfer, SQL Server 2022, .NET 9 hosting",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 4.95,
+            "quarterly": 14.85,
+            "semi_annually": 29.70,
+            "annually": 59.40,
+            "biennially": 118.80,
+            "triennially": 178.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info"]
+          },
+          "direct_shopping_link": "https://smarterasp.net",
+          "currency": "USD"
+        },
+        {
+          "Name": "ASP.NET Premium",
+          "product_description": "Unlimited websites, unlimited space/transfer, SQL Server 2022, .NET 9 hosting",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 7.95,
+            "quarterly": 23.85,
+            "semi_annually": 47.70,
+            "annually": 95.40,
+            "biennially": 190.80,
+            "triennially": 286.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz"]
+          },
+          "direct_shopping_link": "https://smarterasp.net",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "gid": 20,
+      "category": "WordPress Hosting",
+      "plans": [
+        {
+          "Name": "WordPress Starter",
+          "product_description": "Optimized for 1 WordPress site, 50GB storage, up to 25K monthly visitors",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 2.75,
+            "quarterly": 8.25,
+            "semi_annually": 16.50,
+            "annually": 33.00,
+            "biennially": 66.00,
+            "triennially": 99.00
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz"]
+          },
+          "direct_shopping_link": "https://hostgator.com/wordpress-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "WordPress Standard",
+          "product_description": "Optimized for 2 WordPress sites, 100GB storage, up to 100K monthly visitors",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 5.95,
+            "quarterly": 17.85,
+            "semi_annually": 35.70,
+            "annually": 71.40,
+            "biennially": 142.80,
+            "triennially": 214.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz", ".co.uk"]
+          },
+          "direct_shopping_link": "https://hostgator.com/wordpress-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "WordPress Business",
+          "product_description": "Optimized for 3 WordPress sites, 200GB storage, up to 500K monthly visitors",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 9.95,
+            "quarterly": 29.85,
+            "semi_annually": 59.70,
+            "annually": 119.40,
+            "biennially": 238.80,
+            "triennially": 358.20
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz", ".co.uk", ".io"]
+          },
+          "direct_shopping_link": "https://hostgator.com/wordpress-hosting",
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "gid": 21,
+      "category": "WooCommerce Hosting, Ecommerce hosting, Shop hosting",
+      "plans": [
+        {
+          "Name": "WooCommerce Starter",
+          "product_description": "Perfect for small stores, up to 45K monthly visitors, 1-click WooCommerce setup",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 3.29,
+            "quarterly": 9.87,
+            "semi_annually": 19.74,
+            "annually": 39.48,
+            "biennially": 78.96,
+            "triennially": 118.44
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz", ".store", ".shop"]
+          },
+          "direct_shopping_link": "https://hostinger.com/woocommerce-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "WooCommerce Professional",
+          "product_description": "For growing stores, up to 200K monthly visitors, advanced eCommerce features",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 7.49,
+            "quarterly": 22.47,
+            "semi_annually": 44.94,
+            "annually": 89.88,
+            "biennially": 179.76,
+            "triennially": 269.64
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz", ".store", ".shop", ".market"]
+          },
+          "direct_shopping_link": "https://hostinger.com/woocommerce-hosting",
+          "currency": "USD"
+        },
+        {
+          "Name": "WooCommerce Enterprise",
+          "product_description": "For large stores, up to 500K monthly visitors, enterprise-grade resources",
+          "pricing": {
+            "setup_fee": 0,
+            "monthly": 15.99,
+            "quarterly": 47.97,
+            "semi_annually": 95.94,
+            "annually": 191.88,
+            "biennially": 383.76,
+            "triennially": 575.64
+          },
+          "free_domain": {
+            "available": true,
+            "domains": [".com", ".net", ".org", ".info", ".biz", ".store", ".shop", ".market", ".pk"]
+          },
+          "direct_shopping_link": "https://hostinger.com/woocommerce-hosting",
+          "currency": "USD"
+        }
+      ]
+    }
+  ]
+}
