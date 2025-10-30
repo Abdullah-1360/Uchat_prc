@@ -10,9 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 /* ---------- middleware ---------- */
 app.use(cors({
-  origin: process.env.NODE_ENV === 'production' 
-    ? ['https://your-frontend-domain.com'] 
-    : '*'
+  origin:'*'
 }));
 app.use(express.json());
 
